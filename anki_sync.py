@@ -14,9 +14,9 @@ def print(*args, **kwargs):
     _original_print(timestamp, *args, **kwargs)
 
 # --- Config ---
-SHEET_ID = "1tQ8nvi6yzmWtEEyIy_515UzEMU36T4fz7RX2rXXS7Gg"
+SHEET_ID = "1n4Ovq9BUjuncguFXE8TXLKae9vVGcUTuuh0xHLvmjac"
 ANKI_URL = "http://localhost:8765"
-DECK_NAME = "German A2"
+DECK_NAME = "German B1"
 MODEL_NAME = "Basic"
 CREDS_FILE = "/Users/sarbagya/scripts/google_creds.json"
 AUDIO_TMP_DIR = "/tmp/anki_audio"
